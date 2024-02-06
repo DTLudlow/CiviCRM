@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Check the current CiviCRM version at https://download.civicrm.org and replace the number below (it's updated frequently!)
-civiVersion="5.64.2"
+civiVersion="5.69.4"
 
 # Get apt's list of packages
 apt -yq update

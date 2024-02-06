@@ -5,7 +5,7 @@ The image uses the following base images:
 - https://hub.docker.com/_/wordpress
 - https://hub.docker.com/_/mariadb
 
-Version 5.64.2 of CiviCRM is acquired, along with its localisation files. As CiviCRM versions change frequently:
+Version 5.69.4 of CiviCRM is acquired, along with its localisation files. As CiviCRM versions change frequently:
 
 - Visit https://civicrm.org/download to obtain the latest versions of the Wordpress and localisation files
 - Edit the version number on line 4 of **scripts/civiInstall.sh** to match the current version
